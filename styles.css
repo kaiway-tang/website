@@ -1,0 +1,9 @@
+.aligncenter
+{
+    text-align: center;
+}
+
+.title{
+    /*.aligncenter*/
+    color: rgb(97, 0, 0);
+}
